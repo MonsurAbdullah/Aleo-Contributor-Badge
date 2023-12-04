@@ -1,2 +1,2 @@
-# Aleo-Contributor-Badge
-Aleo Contributor Badge
+# Aleo-Tiktacto
+Aleo Tiktacto
